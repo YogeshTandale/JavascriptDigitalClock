@@ -12,7 +12,7 @@ It shows real-time hours, minutes, seconds, and AM/PM format.
 - JavaScript (ES6)
 
 ## 🚀 Live Demo
-👉 https://github.com/YogeshTandale/JavascriptDigitalClock/settings
+👉 https://github.com/YogeshTandale/JavascriptDigitalClock/
 
 ## 📂 Features
 - Real-time clock update
